@@ -1,0 +1,138 @@
+/* STYLING FOR FIRST SECTION */
+.container1 {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.LeftInfoHeader {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.LeftInfoBody, .RightHeader {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.LeftInfoBody {
+    width: 300px;
+}
+
+.LeftInfoButton {
+    background-color: #3882f6;
+    color:white;
+    width: 72px;
+    padding: 7px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.RightHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.FirstPic{
+    width: 300px;
+    height: 200px;
+    margin-top: 8px;
+}
+
+/* STYLING FOR SECOND SECTION */
+.SecondHeader {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.SecondBodyContainer {
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    justify-content: center;
+    gap: 50px;
+}
+
+.SecondText {
+    width: 100px;
+    font-size: small;
+}
+
+.SecondPic {
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+/* STYLING FOR THIRD SECTION */
+.container3 {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #e5e7eb;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    margin-top: 25px;
+    font-size: 36px;
+    font-size: light italic;
+    color: #1f2937;
+}
+.body {
+    display: flex;
+    width:820px;
+    margin-left: 410px;
+}
+.author {
+    margin-left: 1000px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+/* STYLING FOR FOURTH SECTION */
+.container4 {
+    background-color: #3882f6;
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-top: 30px;
+    width: 900px;
+    height: 125px;
+}
+
+.FourthInfo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.FourthLeft, .FourthRight{
+  margin-top: 35px;
+}
+
+.FourthRight {
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.FourthLeft {
+    color:#e5e7eb;
+}
+
+.FourthBody1 {
+    font-weight: bolder;
+}
+
+.FourthButton {
+    padding: 8px;
+    color:white;
+}
+
